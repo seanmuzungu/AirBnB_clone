@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Tinayeshe Ngar | Github: [tingo92](emailto:ngaraimba@gmail.com) 
+Tinayeshe Ngar | Github: [tingo92](mailto:ngaraimba@gmail.com) 
 
 Sean Muzungu | Github: [seanmuzungu](mailto:seanmuzungu@gmail.com)
